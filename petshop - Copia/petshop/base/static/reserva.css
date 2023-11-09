@@ -1,0 +1,38 @@
+/* Estilo para o botão "HOME" */
+.a {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    display: inline-block;
+}
+
+/* Estilo para a mensagem de sucesso */
+.alert.alert-success {
+    background-color: #4ca8af;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+/* Estilo para o botão "Enviar" */
+.custom-btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    display: block;
+    margin: 10px auto;
+    cursor: pointer;
+}
+
+.custom-btn:hover {
+    background-color: #0056b3;
+}
+
